@@ -2,6 +2,16 @@ const express = require("express");
 const app = express();
 require("dotenv").config()
 
+app.use((req, res, next) => {
+  res.setHeader(
+    "Access-Control-Allow-Origin",
+    "https://api-humaya.onrender.com"
+  );
+  res.setHeader("Access-Control-Allow-Methods", "GET");
+  next();
+});
+
+
 const data = [
   {
     id: 1,
