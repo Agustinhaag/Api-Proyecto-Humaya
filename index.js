@@ -8,8 +8,7 @@ app.use(cors());
 const data = [
   {
     id: 1,
-    image:
-      "https://drive.google.com/file/d/1ger7jU6RLCBs4IG7guqOiCOOggUNf-43/view?usp=drive_link",
+    image: "https://ibb.co/hWpNfH8",
     title: "CONITOS",
     description:
       "Una deliciosa opción para acompañar las meriendas, ese antojo de media nocheo compartir con amigos",
@@ -32,8 +31,7 @@ const data = [
   },
   {
     id: 2,
-    image:
-      "https://drive.google.com/file/d/1TXzianlcOIUCTd1NDoiFiCSNPPqHpu-7/view?usp=drive_link",
+    image: "https://ibb.co/S7X20Kp",
     title: "PEPAS",
     description:
       "Las galletitas mas tiernas y ricas, rellenas de dulce membrillo, ideales para el mate y la hora del té",
@@ -56,8 +54,7 @@ const data = [
   },
   {
     id: 3,
-    image:
-      "https://drive.google.com/file/d/1HEKAyowhPI0AOf1Ezi_olg9T8tk11iXQ/view?usp=drive_link",
+    image: "https://ibb.co/H4x3WXK",
     title: "TORTA DE CHOCOLATE",
     description:
       "La torta de chocolate mas sabrosa del mundo, combina un delicioso bizcochuelo de chocolate casero y el mas suave dulce de leche",
@@ -82,8 +79,7 @@ const data = [
   },
   {
     id: 4,
-    image:
-      "https://drive.google.com/file/d/1eiQtS2pZ0h18ofbCmq6j72tYpwNTD2qY/view?usp=drive_link",
+    image: "https://ibb.co/HtdZxv1",
     title: "TRUFAS",
     description:
       "Las clásicas trufas de dulce de leche y galletas de chocolate semiamargo a las que es imposible resistirse",
@@ -101,8 +97,7 @@ const data = [
   },
   {
     id: 5,
-    image:
-      "https://drive.google.com/file/d/1IXYIA6Ab0bLCPAP6JtB70Z3tEo-gXwx9/view?usp=drive_link",
+    image: "https://ibb.co/ZXQMhxd",
     title: "BUDIN",
     description:
       "Budin de chocolate, super esponjoso y exquisito. El compañero perfecto de una buena merienda.",
@@ -126,8 +121,7 @@ const data = [
   },
   {
     id: 6,
-    image:
-      "https://drive.google.com/file/d/1uCNPDgjJw3HJEGqp8ZEwnkRLDOeU8rDh/view?usp=drive_link",
+    image: "https://ibb.co/tc252xz",
     title: "CHOCOTORTA",
     description:
       "Una deliciosa torta, elaborada con el mas exquisito dulce de leche ideal para acompañar las merienda",
