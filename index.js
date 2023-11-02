@@ -141,6 +141,72 @@ const data = [
       "Repetí la base de galletitas humedecidas y la capa de crema hasta formar seis pisos.",
       "Terminá con una capa de la crema y decorá espolvoreando coco rallado.",
     ],
+  },{
+    id: 7,
+    image: "https://i.ibb.co/KG91tjR/panqueques.jpg",
+    title: "PANQUEQUES CON DULCE DE LECHE",
+    description:
+      "Un verdadero clásico dulce, ideal para acompañar tus meriendas.",
+    ingredientes: [
+      "125 g de harina 0000",
+      "250cc. de leche",
+      "2 huevos",
+      "200 g de dulce de leche repostero",
+      "1 pizca de sal",
+    ],
+    Pasos: [
+      "En un bol, colocar los huevos y la leche.",
+      "Umar la pizca de sal y la harina de a poco, mientras se bate para que no se formen grumos. .",
+      "Dejar reposar en la heladera media hora para que la harina se hidrate.",
+      "Calentar un sartén con materia grasa y echar un cucharón de la preparación. Cuando coagule, voltearlo.",
+      "Servir con abundante dulce de leche.",
+    ],
+  },
+  {
+    id: 8,
+    image: "https://i.ibb.co/RgVxWH0/mousse.jpg",
+    title: "MOUSSE DE DULCE DE LECHE",
+    description:
+      "Un delicioso y  muy cremoso mousse, elaborado con el mas esquisito dulce de leche",
+    ingredientes: [
+      "250 g de dulce de leche",
+      "200 ml nata con un 35% de materia grasa",
+      "100 ml de claras de huevo",
+      "15 g de azúcar o miel",
+    ],
+    Pasos: [
+      "Montar a velocidad media las claras de huevo.",
+      "Cuando estén sedimentadas agregar el azúcar o miel.",
+      "Continuar montando hasta que adquieran una textura suave.",
+      "Mezclar el dulce de leche con la nata montada hasta integrar.",
+      "Agregar las claras montadas e integrar con movimientos envolventes.",
+      "Llenar unas copas con la mousse de dulce de leche resultante y refrigerar mínimo durante 4 horas.",
+    ],
+  },
+  {
+    id: 9,
+    image: "https://i.ibb.co/Fq9PXCF/tarta.jpg",
+    title: "TARTA DE DULCE DE LECHE",
+    description:
+      "Una tarta de dulce de leche de versión fría y sin horno con una mousse y una base de galletas deliciosa.",
+    ingredientes: [
+      "350 g de dulce de leche",
+      "400 g de nata para montar",
+      "100 g de galletas",  
+      "50 g de mantequilla",
+      "6 g de gelatina neutra en polvo o 3 hojas de gelatina",
+    ],
+    Pasos: [
+      "Triturar las galletas Y mezclarlas con la mantequilla derretida.",
+      "Colocar un círculo de papel de hornear en la base del molde. Cubrir la base del molde con la mezcla de galletas.",
+      "Poner en remojo la gelatina.",
+      "Calentar 100 g de nata e incorporar poco a poco el dulce de leche.",
+      "Calentar la mezcla y, cuando hierva, retirar del fuego, añadir la gelatina, mezclar bien.",
+      "Montar el resto de la nata.",
+      "Incorporar poco a poco el dulce de leche a la nata.",
+      "Transferir la mezcla al molde. Enfriar mínimo 4 horas o de un día para otro.",
+      "Desmoldar y decorar al gusto."
+    ],
   },
 ];
 
