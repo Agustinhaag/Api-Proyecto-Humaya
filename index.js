@@ -144,7 +144,7 @@ const data = [
   },{
     id: 7,
     image: "https://i.ibb.co/KG91tjR/panqueques.jpg",
-    title: "PANQUEQUES CON DULCE DE LECHE",
+    title: "PANQUEQUES CON DULCE",
     description:
       "Un verdadero clásico dulce, ideal para acompañar tus meriendas.",
     ingredientes: [
