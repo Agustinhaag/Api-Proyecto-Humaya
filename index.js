@@ -28,6 +28,7 @@ const data = [
       "Tomar los bocaditos y sumergirlos en el chocolate.",
       "Bañarlos completamente en una rejilla. Dejar enfriar y mantenerlos a temperatura fresca.",
     ],
+    infoNutricional:[74,15.6 , 1.8, 0.8],  //kal, carbohi, prot, grasas
   },
   {
     id: 2,
@@ -51,6 +52,7 @@ const data = [
       "Colocamos 1 cucharadita de dulce de membrillo en el hueco de cada galletita y cuando ya lo tengamos listo, metemos la bandeja en el horno previamente precalentado a una temperatura de 180º C.",
       "Cocinar por unos 10 minutos aproximadamente.",
     ],
+    infoNutricional:[130, 19, 6, 2]
   },
   {
     id: 3,
@@ -76,6 +78,7 @@ const data = [
       "Vierte la masa del bizcocho húmedo de chocolate en un molde para horno previamente enharinado y enmantecado y lo hornea a 180 ºC durante 50 minutos.",
       "Retira la torta de chocolate, déjala enfriar a temperatura ambiente y después la desmoldas. Puedes cortar el bizcocho por la mitad y rellenarlo con frosting de chocolate.",
     ],
+    infoNutricional:[399,60, 16, 3.5]
   },
   {
     id: 4,
@@ -94,6 +97,7 @@ const data = [
       "Mezclar muy bien el dulce de leche con el polvo de galletitas y la mitad del coco rallado. (Agregar el licor si se desea)",
       "Formar bolitas del tamaño que nos guste y pasarlas por el coco rallado restante. Guardalas en la heladera hasta el momento de consumir.",
     ],
+    infoNutricional:[64,7,0.8,4]
   },
   {
     id: 5,
@@ -118,6 +122,7 @@ const data = [
       "Colocar la preparación en un molde para budín y llevar al horno unos 50 minutos aproximadamente.",
       "Dejar enfriar, desmoldar y decorar a gusto.",
     ],
+    infoNutricional:[242, 29, 6, 12]
   },
   {
     id: 6,
@@ -141,6 +146,7 @@ const data = [
       "Repetí la base de galletitas humedecidas y la capa de crema hasta formar seis pisos.",
       "Terminá con una capa de la crema y decorá espolvoreando coco rallado.",
     ],
+    infoNutricional:[315,38,5,16]
   },{
     id: 7,
     image: "https://i.ibb.co/KG91tjR/panqueques.jpg",
@@ -161,6 +167,7 @@ const data = [
       "Calentar un sartén con materia grasa y echar un cucharón de la preparación. Cuando coagule, voltearlo.",
       "Servir con abundante dulce de leche.",
     ],
+    infoNutricional:[235, 29, 9,9]
   },
   {
     id: 8,
@@ -182,6 +189,7 @@ const data = [
       "Agregar las claras montadas e integrar con movimientos envolventes.",
       "Llenar unas copas con la mousse de dulce de leche resultante y refrigerar mínimo durante 4 horas.",
     ],
+    infoNutricional:[108,13,3,5]
   },
   {
     id: 9,
@@ -207,6 +215,7 @@ const data = [
       "Transferir la mezcla al molde. Enfriar mínimo 4 horas o de un día para otro.",
       "Desmoldar y decorar al gusto."
     ],
+    infoNutricional:[310,42,4,16]
   },
 ];
 
