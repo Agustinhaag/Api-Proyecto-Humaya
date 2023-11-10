@@ -59,7 +59,7 @@ const data = [
     image: "https://i.ibb.co/9gVSFGp/torta.jpg",
     title: "TORTA DE CHOCOLATE",
     description:
-      "La torta de chocolate mas sabrosa del mundo, combina un delicioso bizcochuelo de chocolate casero y el mas suave dulce de leche",
+      "La torta de chocolate mas sabrosa del mundo, combina un delicioso bizcochuelo de chocolate y el mas suave dulce de leche",
     ingredientes: [
       "3 tazas de harina",
       "3 tazas de azúcar ",
